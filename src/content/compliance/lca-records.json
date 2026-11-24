@@ -1,0 +1,1052 @@
+[
+  {
+    "id": "lca-001",
+    "order": 1,
+    "serial": "GIT-LCA-82",
+    "lcaNumber": "I-200-25199-184003",
+    "title": "IT Consultant",
+    "location": "108 Lupine Dr, Mars Butler County, Pennsylvania - 16046",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-25199-184003.pdf",
+      "legacyPath": "/images/lca_docs/I-200-25199-184003.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-002",
+    "order": 2,
+    "serial": "GIT-LCA-81",
+    "lcaNumber": "I-200-25200-187078",
+    "title": "Java / Applications Developer",
+    "location": "1428 Stillforest Dr, Allen, Collin County, Texas - 75002",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-25200-187078.pdf",
+      "legacyPath": "/images/lca_docs/I-200-25200-187078.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-003",
+    "order": 3,
+    "serial": "GIT-LCA-80",
+    "lcaNumber": "I-200-25224-235387",
+    "title": "Application Tester/ Developer",
+    "location": "6501 Teabridge Dr, Plano , Collin County , Texas - 75074",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-25224-235387.pdf",
+      "legacyPath": "/images/lca_docs/I-200-25224-235387.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-004",
+    "order": 4,
+    "serial": "GIT-LCA-79",
+    "lcaNumber": "I-200-25094-834521",
+    "title": "Java / Applications Developer",
+    "location": "2441 Fairway Harbor Dr, Katy , Harris , Texas - 77493",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-25094-834521.pdf",
+      "legacyPath": "/images/lca_docs/I-200-25094-834521.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-005",
+    "order": 5,
+    "serial": "GIT-LCA-78",
+    "lcaNumber": "I-200-25073-775037",
+    "title": "Software Engineer / Release Engineer",
+    "location": "6455 Irvine Center Dr, Irvine, Orange, California - 92618",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-25073-775037.pdf",
+      "legacyPath": "/images/lca_docs/I-200-25073-775037.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-006",
+    "order": 6,
+    "serial": "GIT-LCA-77",
+    "lcaNumber": "I-200-25067-759798",
+    "title": "Software Developer",
+    "location": "1609 Centre Creek Dr Austin Travis Texas 78754",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-25067-759798.pdf",
+      "legacyPath": "/images/lca_docs/I-200-25067-759798.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-007",
+    "order": 7,
+    "serial": "GIT-LCA-76",
+    "lcaNumber": "I-200-25015-618891",
+    "title": "Software Engineer-Applications(API)Development & Integration",
+    "location": "1609 Centre Creek Dr Austin Travis Texas 78754",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-25015-618891.pdf",
+      "legacyPath": "/images/lca_docs/I-200-25015-618891.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-008",
+    "order": 8,
+    "serial": "GIT-LCA-75",
+    "lcaNumber": "I-200-25007-598869",
+    "title": "Software Engineer / DevOps Engineer",
+    "location": "2 Mountainview Terrace Unit 4202 Danbury Fairfield Connecticut - 06810",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-25007-598869.pdf",
+      "legacyPath": "/images/lca_docs/I-200-25007-598869.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-009",
+    "order": 9,
+    "serial": "GIT-LCA-74",
+    "lcaNumber": "I-200-24353-552892",
+    "title": "Genesys CTI Engineer",
+    "location": "532 E Celebration Way South Plainfield Middlesex New Jersey - 07080",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-24353-552892.pdf",
+      "legacyPath": "/images/lca_docs/I-200-24353-552892.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-010",
+    "order": 10,
+    "serial": "GIT-LCA-73",
+    "lcaNumber": "I-200-24284-397437",
+    "title": "Sitecore Developer / Software Developer",
+    "location": "34 MAYFLOWER AVE, STAMFORD, Fairfield , Connecticut - 06906",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-24284-397437.pdf",
+      "legacyPath": "/images/lca_docs/I-200-24284-397437.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-011",
+    "order": 11,
+    "serial": "GIT-LCA-72",
+    "lcaNumber": "I-200-24268-358931",
+    "title": "Application Developer",
+    "location": "6800 Gaston Rd, Apt 5309, Katy, Fort Bend, Texas - 77494",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-24268-358931.pdf",
+      "legacyPath": "/images/lca_docs/I-200-24268-358931.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-012",
+    "order": 12,
+    "serial": "GIT-LCA-71",
+    "lcaNumber": "I-200-24215-239841",
+    "title": "SOFTWARE ENGINEER / RELEASE ENGINEER",
+    "location": "916 MEADOW CREEK DR , APT 2104, IRVING , Dallas , Texas - 75038",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-24215-239841.pdf",
+      "legacyPath": "/images/lca_docs/I-200-24215-239841.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-013",
+    "order": 13,
+    "serial": "GIT-LCA-70",
+    "lcaNumber": "I-200-24133-985786",
+    "title": "SOFTWARE DEVELOPER",
+    "location": "3400 W PLANO PKWY , PLANO , Collin , Texas - 75075",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-24133-985786.pdf",
+      "legacyPath": "/images/lca_docs/I-200-24133-985786.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-014",
+    "order": 14,
+    "serial": "GIT-LCA-69",
+    "lcaNumber": "I-200-24157-071855",
+    "title": "SOFTWARE TEST ENGINEER",
+    "location": "3315 CARR ST, HOUSTON, Harris , Texas - 77026",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-24157-071855.pdf",
+      "legacyPath": "/images/lca_docs/I-200-24157-07185.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-015",
+    "order": 15,
+    "serial": "GIT-LCA-68",
+    "lcaNumber": "I-200-24157-071862",
+    "title": "SOFTWARE DEVELOPER",
+    "location": "3315 CARR ST, HOUSTON, Harris , Texas - 77026",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-24157-071862.pdf",
+      "legacyPath": "/images/lca_docs/I-200-24157-071862.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-016",
+    "order": 16,
+    "serial": "GIT-LCA-67",
+    "lcaNumber": "I-200-24116-923691",
+    "title": ".NET DEVELOPER",
+    "location": "8100 Gaylord Pkwy, Apt 1250, Frisco, Collin,Texas,75034.",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-24116-923691.pdf",
+      "legacyPath": "/images/lca_docs/I-200-24116-923691.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-017",
+    "order": 17,
+    "serial": "GIT-LCA-66",
+    "lcaNumber": "I-200-24079-810142",
+    "title": "Software Engineer",
+    "location": "1919 McKinney Ave, Dallas, Dallas, Texas, 75201.",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-24079-810142.pdf",
+      "legacyPath": "/images/lca_docs/I-200-24079-810142.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-018",
+    "order": 18,
+    "serial": "GIT-LCA-65",
+    "lcaNumber": "I-200-24063-766006",
+    "title": "Genesys CTI Engineer",
+    "location": "532 E Celebration Way, South Plainfeild, Middlesex, New Jersey, 07080",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-24063-766006.pdf",
+      "legacyPath": "/images/lca_docs/I-200-24063-766006.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-019",
+    "order": 19,
+    "serial": "GIT-LCA-64",
+    "lcaNumber": "I-200-24063-765992",
+    "title": "Azure Developer (DATA)",
+    "location": "2908 W Royal Ln, APt 3037, Irving, Dallas, Texas, 75063",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-24063-765992.pdf",
+      "legacyPath": "/images/lca_docs/I-200-24063-765992.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-020",
+    "order": 20,
+    "serial": "GIT-LCA-63",
+    "lcaNumber": "I-200-24052-734452",
+    "title": "Azure Developer (DATA)",
+    "location": "9894 Bissonnet St Suite 827 Houston Texas 77036.",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-24052-734452.pdf",
+      "legacyPath": "/images/lca_docs/I-200-24052-734452.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-021",
+    "order": 21,
+    "serial": "GIT-LCA-62",
+    "lcaNumber": "I-200-24026-668946",
+    "title": "Genesys CTI Engineer",
+    "location": "9894 Bissonnet St Suite 827 Houston Texas 77036.",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-24026-668946.pdf",
+      "legacyPath": "/images/lca_docs/I-200-24026-668946.pdf",
+      "available": false
+    }
+  },
+  {
+    "id": "lca-022",
+    "order": 22,
+    "serial": "GIT-LCA-61",
+    "lcaNumber": "I-200-23322-511805",
+    "title": "Java/Applications Developer",
+    "location": "1390 Chesterfield, Missouri, St Louis, 63017.",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-23322-511805.pdf",
+      "legacyPath": "/images/lca_docs/I-200-23322-511805.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-023",
+    "order": 23,
+    "serial": "GIT-LCA-60",
+    "lcaNumber": "I-200-23264-368001",
+    "title": "SOFTWARE DEVELOPER",
+    "location": "7530 FM 1010 RD, CLEVELAND, Liberty, Texas - 77327.",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-23264-368001.pdf",
+      "legacyPath": "/images/lca_docs/I-200-23264-368001.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-024",
+    "order": 24,
+    "serial": "GIT-LCA-59",
+    "lcaNumber": "I-200-23171-125929",
+    "title": "PRODUCT OWNER",
+    "location": "717 PARTHENIA LN , MT JULIET, Wilson, Tennessee - 37122",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-23171-125929.pdf",
+      "legacyPath": "/images/lca_docs/I-200-23171-125929.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-025",
+    "order": 25,
+    "serial": "GIT-LCA-58",
+    "lcaNumber": "I-200-23166-116699",
+    "title": ".Net Developer",
+    "location": "20745 Williamsport Place, Suite # 390, Ashburn, Virginia, 20147, United States Of America",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-23166-116699.pdf",
+      "legacyPath": "/images/lca_docs/I-200-23166-116699.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-026",
+    "order": 26,
+    "serial": "GIT-LCA-57",
+    "lcaNumber": "I-200-23137-028194",
+    "title": "SAP EWM CONSULTANT",
+    "location": "2001 FALLS BLVD, APT 130 , QUINCY, Norfolk, Massachusetts, 02169.",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-23137-028194.pdf",
+      "legacyPath": "/images/lca_docs/I-200-23137-028194.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-027",
+    "order": 27,
+    "serial": "GIT-LCA-56",
+    "lcaNumber": "I-200-23105-936446",
+    "title": "Systems Tester / Developer",
+    "location": "300 LEGACY DR, APT 1433, PLANO, Collin, Texas, 75023.",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-23105-936446.pdf",
+      "legacyPath": "/images/lca_docs/I-200-23105-936446.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-028",
+    "order": 28,
+    "serial": "GIT-LCA-55",
+    "lcaNumber": "I-200-23065-823686",
+    "title": "Application Tester/Developer",
+    "location": "12956 WIMBLEDON WAY, FARMERS BRANCH, Dallas, Texas, 75234.",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-23065-823686.pdf",
+      "legacyPath": "/images/lca_docs/I-200-23065-823686.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-029",
+    "order": 29,
+    "serial": "GIT-LCA-54",
+    "lcaNumber": "I-200-23024-721786",
+    "title": "Software Developer",
+    "location": "3003 SEAGLER RD, APT 2305, HOUSTON,Harris, Texas,77042.",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-23024-721786.pdf",
+      "legacyPath": "/images/lca_docs/I-200-23024-721786.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-030",
+    "order": 30,
+    "serial": "GIT-LCA-54",
+    "lcaNumber": "I-200-23021-718416",
+    "title": "Java / Applications Developer",
+    "location": "1789 Parkview Green Circle, San Jose, Santa Clara, California, 95131.",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-23021-718416.pdf",
+      "legacyPath": "/images/lca_docs/I-200-23021-718416.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-031",
+    "order": 31,
+    "serial": "GIT-LCA-53",
+    "lcaNumber": "I-200-23007-687846",
+    "title": "Software Engineer / Release Engineer",
+    "location": "31 Bear Paw, Apt 34B, Irvine, Orange, California, 92604.",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-23007-687846.pdf",
+      "legacyPath": "/images/lca_docs/I-200-23007-687846.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-032",
+    "order": 32,
+    "serial": "GIT-LCA-52",
+    "lcaNumber": "I-200-23008-688320",
+    "title": "DevOps Engineer",
+    "location": "60 DINSMORE AVE, APT 619, FRAMINGHAM, Framingham, Massachusetts, 01702.",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-23008-688320.pdf",
+      "legacyPath": "/images/lca_docs/I-200-23008-688320.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-033",
+    "order": 33,
+    "serial": "GIT-LCA-51",
+    "lcaNumber": "I-200-23018-708888",
+    "title": "Application Tester / Developer",
+    "location": "9937 COYOTE PASS TRL, MCKINNEY, Collin, Texas, 75071.",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-23018-708888.pdf",
+      "legacyPath": "/images/lca_docs/I-200-23018-708888.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-034",
+    "order": 34,
+    "serial": "GIT-LCA-50",
+    "lcaNumber": "I-200-22256-468091",
+    "title": "Applications Developer",
+    "location": "1428 STILLFOREST DR, ALLEN, Collin, Texas, 75002.",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-22256-468091.pdf",
+      "legacyPath": "/images/lca_docs/I-200-22256-468091.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-035",
+    "order": 35,
+    "serial": "GIT-LCA-49",
+    "lcaNumber": "I-200-22213-388303",
+    "title": "APPLICATION TESTER/DEVELOPER",
+    "location": "50 CRAGWOOD ROAD, SUITE 100, SOUTH PLAINFIELD, New Jersey - 07080.",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-22213-388303.pdf",
+      "legacyPath": "/images/lca_docs/I-200-22213-388303.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-036",
+    "order": 36,
+    "serial": "GIT-LCA-48",
+    "lcaNumber": "I-200-22201-365889",
+    "title": "SENIOR RPA DEVELOPER",
+    "location": "22218 WELLER OAKS DRIVE, SPRING, Harris, Texas, 77389.",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-22201-365889.pdf",
+      "legacyPath": "/images/lca_docs/I-200-22201-365889.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-037",
+    "order": 37,
+    "serial": "GIT-LCA-47",
+    "lcaNumber": "I-200-22201-365997",
+    "title": "APPLICATION TESTER/DEVELOPER",
+    "location": "COMERICA BANK, 1717 MAIN STREET, DALLAS, Dallas, Texas, 75201.",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-22201-365997.pdf",
+      "legacyPath": "/images/lca_docs/I-200-22201-365997.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-038",
+    "order": 38,
+    "serial": "GIT-LCA-46",
+    "lcaNumber": "I-200-22200-362499",
+    "title": "SAP EWM CONSULTANT",
+    "location": "1618 CRANWAY DR. HOUSTON, Harris, Texas, 77055.",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-22200-362499.pdf",
+      "legacyPath": "/images/lca_docs/I-200-22200-362499.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-039",
+    "order": 39,
+    "serial": "GIT-LCA-45",
+    "lcaNumber": "I-200-22200-362543",
+    "title": "PRODUCT OWNER",
+    "location": "235 EAST ST, APT. #18, PITTSFIELD, Pittsfield City, Massachusetts, 01201,",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-22200-362543.pdf",
+      "legacyPath": "/images/lca_docs/I-200-22200-362543.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-040",
+    "order": 40,
+    "serial": "GIT-LCA-44",
+    "lcaNumber": "I-200-22140-194871",
+    "title": "SAP TECHNICAL SERVICE MANAGER",
+    "location": "2500 OLD FARM ROAD, APT. #411, HOUSTON, Harris, Texas, 77063.",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-22140-194871.pdf",
+      "legacyPath": "/images/lca_docs/I-200-22140-194871.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-041",
+    "order": 41,
+    "serial": "GIT-LCA-43",
+    "lcaNumber": "I-200-22146-217477",
+    "title": "SR. DATAWAREHOUSE DEVELOPER",
+    "location": "5172 MADISON AVE, APT. #A3 , OKEMOS, Ingham, Michigan, 48864.",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-22146-217477.pdf",
+      "legacyPath": "/images/lca_docs/I-200-22146-217477.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-042",
+    "order": 42,
+    "serial": "GIT-LCA-42",
+    "lcaNumber": "I-200-22136-175147",
+    "title": "JAVA UI DEVELOPER",
+    "location": "4112 REMINGTON RD, CEDAR PARK, Williamson, Texas, 78613.",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-22136-175147.pdf",
+      "legacyPath": "/images/lca_docs/I-200-22136-175147.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-043",
+    "order": 43,
+    "serial": "GIT-LCA-41",
+    "lcaNumber": "I-200-22109-085566",
+    "title": "SITECORE DEVELOPER",
+    "location": "34 MAYFLOWER AVE, STAMFORD, Fairfield, Connecticut, 06906.",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-22109-085566.pdf",
+      "legacyPath": "/images/lca_docs/I-200-22109-085566.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-044",
+    "order": 44,
+    "serial": "GIT-LCA-40",
+    "lcaNumber": "I-200-22077-991825",
+    "title": "COMPUTER PROGRAMMERS/ EMBEDDED ENGINEER",
+    "location": "CISCO SYSTEMS, 560 MCCARTHY BLVD,MILPITAS, Santa Clara, California, 95035",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-22077-991825.pdf",
+      "legacyPath": "/images/lca_docs/I-200-22077-991825.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-045",
+    "order": 45,
+    "serial": "GIT-LCA-39",
+    "lcaNumber": "I-200-22061-942378",
+    "title": "Application Developer",
+    "location": "KY CENTER FOR STATISTICS, STATE OF KENTUCKY, 500 MERO ST, 5th FLOOR ,FRANKFORT, Franklin, Kentucky,40601",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-22061-942378.pdf",
+      "legacyPath": "/images/lca_docs/I-200-22061-942378.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-046",
+    "order": 46,
+    "serial": "GIT-LCA-38",
+    "lcaNumber": "I-200-22061-942347",
+    "title": "Software Developer",
+    "location": "BENEFICIARY'S HOME (WORK REMOTELY), 3915 MAY RIDGE LN, SUGAR LAND, Fort Bend, Texas, 77479.",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-22061-942347.pdf",
+      "legacyPath": "/images/lca_docs/I-200-22061-942347.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-047",
+    "order": 47,
+    "serial": "GIT-LCA-37",
+    "lcaNumber": "I-200-22025-850450",
+    "title": "Application Developer",
+    "location": "201 Helios Way, Houston , Harris, Texas, 77079.",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-22025-850450.pdf",
+      "legacyPath": "/images/lca_docs/I-200-22025-850450.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-048",
+    "order": 48,
+    "serial": "GIT-LCA-36",
+    "lcaNumber": "I-200-21327-722020",
+    "title": "Software Developers, Applications",
+    "location": "20500 NW EVERGREEN PKWY, HILLSBORO, Washington, Oregon, 97124.",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-21327-722020.pdf",
+      "legacyPath": "/images/lca_docs/I-200-21327-722020.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-049",
+    "order": 49,
+    "serial": "GIT-LCA-35",
+    "lcaNumber": "I-200-21244-560252",
+    "title": "Applications Developer",
+    "location": "US READY MIX, INC. 3315 CARR STREET, HOUSTON, HARRIS, TEXAS, 77026",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-21244-560252.pdf",
+      "legacyPath": "/images/lca_docs/I-200-21244-560252.pdf",
+      "available": false
+    }
+  },
+  {
+    "id": "lca-050",
+    "order": 50,
+    "serial": "GIT-LCA-34",
+    "lcaNumber": "I-200-21126-291064",
+    "title": "Software Developer, Applications",
+    "location": "1055 W 7th St, Los Angeles, Los Angeles, California, 90017.",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-21126-291064.pdf",
+      "legacyPath": "/images/lca_docs/I-200-21126-291064.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-051",
+    "order": 51,
+    "serial": "GIT-LCA-33",
+    "lcaNumber": "I-200-21193-457566",
+    "title": "Software Developer",
+    "location": "3400 W Plano Pkwy, Plano, Collin, Texas, 75075.",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-21193-457566.pdf",
+      "legacyPath": "/images/lca_docs/I-200-21193-457566.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-052",
+    "order": 52,
+    "serial": "GIT-LCA-32",
+    "lcaNumber": "I-200-21153-363905",
+    "title": "SOFTWARE DEVELOPER",
+    "location": "2410 NASHMOR DR, SUGAR LAND , Fort Bend, Texas, 77479.",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-21153-363905_new.pdf",
+      "legacyPath": "/images/lca_docs/I-200-21153-363905_new.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-053",
+    "order": 53,
+    "serial": "GIT-LCA-31",
+    "lcaNumber": "I-200-21126-291112",
+    "title": "Product Applications Analyst",
+    "location": "1350 Charleston Rd, Mountain View, Santa Clara,California, 94043.",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-21126-291112.pdf",
+      "legacyPath": "/images/lca_docs/I-200-21126-291112.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-054",
+    "order": 54,
+    "serial": "GIT-LCA-30",
+    "lcaNumber": "I-200-21153-363869",
+    "title": "Applications Developer",
+    "location": "3315 CARR ST, HOUSTON, Harris, Texas, 77026.",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-21153-363869.pdf",
+      "legacyPath": "/images/lca_docs/I-200-21153-363869.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-055",
+    "order": 55,
+    "serial": "GIT-LCA-29",
+    "lcaNumber": "I-200-21055-097284",
+    "title": "SOFTWARE DEVELOPER",
+    "location": "2410 NASHMOR DR, SUGAR LAND, Fort Bend, Texas, 77479.",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-21055-097284.pdf",
+      "legacyPath": "/images/lca_docs/I-200-21055-097284.pdf",
+      "available": false
+    }
+  },
+  {
+    "id": "lca-056",
+    "order": 56,
+    "serial": "GIT-LCA-28",
+    "lcaNumber": "I-200-21055-097284",
+    "title": "SOFTWARE ENGINEER",
+    "location": "805 Central Expressway South , Allen, Collin, Texas - 75013",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-21041-067266.pdf",
+      "legacyPath": "/images/lca_docs/I-200-21041-067266.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-057",
+    "order": 57,
+    "serial": "GIT-LCA-27",
+    "lcaNumber": "I-200-21061-111264",
+    "title": "RPA Developer",
+    "location": "1231 Green way Drive , Suite 210, Irving, Texas - 75038",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-21061-111264.pdf",
+      "legacyPath": "/images/lca_docs/I-200-21061-111264.pdf",
+      "available": false
+    }
+  },
+  {
+    "id": "lca-058",
+    "order": 58,
+    "serial": "GIT-LCA-26",
+    "lcaNumber": "I-200-21041-067266",
+    "title": "Genesys CTI Engineer",
+    "location": "100 Challenger Rd. 6th FL, Ridgefield Park, Bergen, New Jersey - 07660",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-21041-067266.pdf",
+      "legacyPath": "/images/lca_docs/I-200-21041-067266.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-059",
+    "order": 59,
+    "serial": "GIT-LCA-25",
+    "lcaNumber": "I-200-20164-648444",
+    "title": "Application Developer",
+    "location": "609 Main Street, Houston, Harris, Texas - 77002",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-20164-648444.pdf",
+      "legacyPath": "/images/lca_docs/I-200-20164-648444.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-060",
+    "order": 60,
+    "serial": "GIT-LCA-24",
+    "lcaNumber": "I-200-20206-734065",
+    "title": "Applications Developer",
+    "location": "1106 Clayton Lane, Austin, Travis, Texas - 78723",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-20206-734065.pdf",
+      "legacyPath": "/images/lca_docs/I-200-20206-734065.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-061",
+    "order": 61,
+    "serial": "GIT-LCA-23",
+    "lcaNumber": "I-200-20246-800461",
+    "title": "Application Tester/ Developer",
+    "location": "700 Hidden Ridge , Irving, Dallas, Texas - 75038",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-20246-800461.pdf",
+      "legacyPath": "/images/lca_docs/I-200-20246-800461.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-062",
+    "order": 62,
+    "serial": "GIT-LCA-22",
+    "lcaNumber": "I-200-20270-846899",
+    "title": "Systems Tester / Developer",
+    "location": "3460 Dallas Pkwy, Frisco, Texas - 75034",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-20270-846899.pdf",
+      "legacyPath": "/images/lca_docs/I-200-20270-846899.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-063",
+    "order": 63,
+    "serial": "GIT-LCA-21",
+    "lcaNumber": "I-200-20149-606342",
+    "title": "Software Engineer/Release Engineer",
+    "location": "15505 sand canyon rd,Irvine ,CA - 92618",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-20149-606342.pdf",
+      "legacyPath": "/images/lca_docs/I-200-20149-606342.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-064",
+    "order": 64,
+    "serial": "GIT-LCA-20",
+    "lcaNumber": "I-200-20086-438665",
+    "title": "Software developer/ Analytics Analyst",
+    "location": "1500 Louisiana St, Houston, TX - 77002",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-20086-438665.pdf",
+      "legacyPath": "/images/lca_docs/I-200-20086-438665.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-065",
+    "order": 65,
+    "serial": "GIT-LCA-19",
+    "lcaNumber": "I-200-20076-410739",
+    "title": "JAVA / APPLICATIONS DEVELOPER",
+    "location": "4500 BOHANNON DR, MENLO PARK, San Mateo, California, 94025",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-20076-410739.pdf",
+      "legacyPath": "/images/lca_docs/I-200-20076-410739.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-066",
+    "order": 66,
+    "serial": "GIT-LCA-18",
+    "lcaNumber": "I-200-20063-372270",
+    "title": "Applications Tester/ Developer",
+    "location": "SOUTHWEST AIRLINES, 2702 LOVE FIELD DR, DALLAS, DALLAS, Texas, 75235",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-20063-372270.pdf",
+      "legacyPath": "/images/lca_docs/I-200-20063-372270.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-067",
+    "order": 67,
+    "serial": "GIT-LCA-17",
+    "lcaNumber": "I-200-20037-301960",
+    "title": "Systems Tester / Developer",
+    "location": "2400 N GLENVILLE DR, SUITE # C150, RICHARDSON Dallas, Texas 75082",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-20037-301960.pdf",
+      "legacyPath": "/images/lca_docs/I-200-20037-301960.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-068",
+    "order": 68,
+    "serial": "GIT-LCA-16",
+    "lcaNumber": "I-200-19352-204020",
+    "title": "Software Engineer/Release Engineer",
+    "location": "31 Bear Paw, California",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-19352-204020.pdf",
+      "legacyPath": "/images/lca_docs/I-200-19352-204020.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-069",
+    "order": 69,
+    "serial": "GIT-LCA-15",
+    "lcaNumber": "I-200-20020-263695",
+    "title": "Sr. Systems Specialist",
+    "location": "5400 westeimer, Houston",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-20020-263695.pdf",
+      "legacyPath": "/images/lca_docs/I-200-20020-263695.pdf",
+      "available": false
+    }
+  },
+  {
+    "id": "lca-070",
+    "order": 70,
+    "serial": "GIT-LCA-14",
+    "lcaNumber": "I-200-20007-238040",
+    "title": "Applications Developer - Sharepoint",
+    "location": "501 Westlake Park Blvd, HOUSTON, TX 77079",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-20007-238040.pdf",
+      "legacyPath": "/images/lca_docs/I-200-20007-238040.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-071",
+    "order": 71,
+    "serial": "GIT-LCA-13",
+    "lcaNumber": "I-200-19344-188560",
+    "title": "APPLICATIONS DEVELOPER",
+    "location": "3316 CARR ST, HOUSTON, TX 77026",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-19344-188560.pdf",
+      "legacyPath": "/images/lca_docs/I-200-19344-188560.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-072",
+    "order": 72,
+    "serial": "GIT-LCA-12",
+    "lcaNumber": "I-200-19221-927990",
+    "title": "ETL DEVELOPER",
+    "location": "40 N MAIN ST, DAYTON, OH 45423",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-19221-927990.pdf",
+      "legacyPath": "/images/lca_docs/I-200-19221-927990.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-073",
+    "order": 73,
+    "serial": "GIT-LCA-11",
+    "lcaNumber": "I-200-19021-533070",
+    "title": "APPLICATIONS DEVELOPER",
+    "location": "1050 US HWY 127 S,FRANKFORT, KY 40601",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-19021-533070.pdf",
+      "legacyPath": "/images/lca_docs/I-200-19021-533070.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-074",
+    "order": 74,
+    "serial": "GIT-LCA-10",
+    "lcaNumber": "I-200-25073-775037",
+    "title": "Software Engineer / Release Engineer",
+    "location": "31 Bear Paw, Apt 34B, Irvine, Orange, California, 92604",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-25073-775037-certified-lca.pdf",
+      "legacyPath": "/images/lca_docs/I-200-25073-775037-certified-lca.pdf",
+      "available": true
+    }
+  },
+  {
+    "id": "lca-075",
+    "order": 75,
+    "serial": "GIT-LCA-9",
+    "lcaNumber": "I-200-25262-322447",
+    "title": "AI/ML Engineer",
+    "location": "1847 Sherwood Forest Street,Harris, Texas, Houston, 77043",
+    "status": "Certified",
+    "document": {
+      "path": "/images/lca_docs/I-200-25262-322447 Ranga LCA certified.pdf",
+      "legacyPath": "/images/lca_docs/I-200-25262-322447 Ranga LCA certified.pdf",
+      "available": true
+    }
+  }
+]

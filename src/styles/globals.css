@@ -1,0 +1,193 @@
+@import "tailwindcss";
+
+/* =========================================================================
+   GenuineIT design tokens
+   Brand anchor: the official logo field colour #004087 ("logo navy").
+   ========================================================================= */
+@theme {
+  --color-ink-950: #050d1a;
+  --color-ink-900: #081426; /* primary dark navy */
+  --color-ink-800: #10243d; /* secondary navy */
+  --color-ink-700: #1b3352;
+  --color-ink-600: #2a4568;
+  --color-logo: #004087; /* sampled from official logo */
+  --color-blue-700: #0f44b3;
+  --color-blue-600: #1455d9; /* primary technology blue */
+  --color-blue-500: #2f6bea;
+  --color-blue-100: #e3ecfd;
+  --color-blue-50: #f0f5ff;
+  --color-cyan-400: #00c9e8; /* digital cyan accent (use on dark only) */
+  --color-cyan-600: #007f94; /* cyan for text on light: 4.9:1 on white */
+  --color-platinum: #f4f7fb;
+  --color-mist: #eaf0f7;
+  --color-text: #111827;
+  --color-text-muted: #475569;
+  --color-text-subtle: #586477; /* ≥4.9:1 on platinum */
+  --color-line: #e2e8f0;
+  --color-line-strong: #cbd5e1;
+  --color-success: #0f7a4a;
+  --color-danger: #b42318;
+  --color-warning: #8a5a00;
+
+  --font-display: var(--font-manrope), "Manrope", ui-sans-serif, system-ui, sans-serif;
+  --font-sans: var(--font-inter), "Inter", ui-sans-serif, system-ui, sans-serif;
+
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 14px;
+  --radius-xl: 20px;
+
+  --shadow-card: 0 1px 2px rgb(8 20 38 / 0.04), 0 8px 24px -12px rgb(8 20 38 / 0.12);
+  --shadow-lift: 0 2px 4px rgb(8 20 38 / 0.05), 0 22px 48px -20px rgb(8 20 38 / 0.28);
+  --shadow-menu: 0 24px 60px -18px rgb(5 13 26 / 0.35), 0 2px 6px rgb(5 13 26 / 0.08);
+
+  --ease-out-soft: cubic-bezier(0.22, 1, 0.36, 1);
+
+  --breakpoint-xs: 26rem;
+  --breakpoint-3xl: 112rem;
+
+  --animate-rise: rise 600ms var(--ease-out-soft) both;
+  --animate-fade: fade 500ms ease-out both;
+
+  @keyframes rise {
+    from { opacity: 0; transform: translateY(14px); }
+    to { opacity: 1; transform: none; }
+  }
+  @keyframes fade {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+}
+
+/* Fluid type scale */
+:root {
+  --step-hero: clamp(2.6rem, 1.4rem + 5.2vw, 5rem);
+  --step-page: clamp(2.25rem, 1.5rem + 3.2vw, 4rem);
+  --step-section: clamp(1.85rem, 1.35rem + 2vw, 3rem);
+  --step-lead: clamp(1.075rem, 1rem + 0.35vw, 1.25rem);
+  --gutter: clamp(1.25rem, 0.6rem + 2.8vw, 4rem);
+  --section-y: clamp(4.5rem, 3rem + 5vw, 8.5rem);
+  --header-h: 72px;
+  color-scheme: light;
+}
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+    text-rendering: optimizeLegibility;
+    scroll-padding-top: calc(var(--header-h) + 16px);
+  }
+  body {
+    background: #fff;
+    color: var(--color-text);
+    font-family: var(--font-sans);
+    font-size: 1rem;
+    line-height: 1.65;
+    -webkit-font-smoothing: antialiased;
+    overflow-x: hidden;
+  }
+  h1, h2, h3, h4 {
+    font-family: var(--font-display);
+    letter-spacing: -0.022em;
+    line-height: 1.1;
+    font-weight: 750;
+    text-wrap: balance;
+  }
+  p { text-wrap: pretty; }
+  ::selection { background: var(--color-blue-100); color: var(--color-ink-900); }
+  :focus-visible {
+    outline: 3px solid var(--color-blue-600);
+    outline-offset: 3px;
+    border-radius: 4px;
+  }
+  .on-dark :focus-visible { outline-color: var(--color-cyan-400); }
+  img, svg { display: block; }
+  a { text-underline-offset: 0.18em; }
+}
+
+@layer components {
+  .container-x {
+    width: 100%;
+    max-width: calc(1320px + var(--gutter) * 2);
+    margin-inline: auto;
+    padding-inline: var(--gutter);
+  }
+  .section-y { padding-block: var(--section-y); }
+
+  .eyebrow {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.6rem;
+    font-family: var(--font-sans);
+    font-size: 0.78rem;
+    font-weight: 600;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--color-blue-600);
+  }
+  .eyebrow::before {
+    content: "";
+    width: 1.5rem;
+    height: 2px;
+    background: currentColor;
+    border-radius: 2px;
+  }
+  .on-dark .eyebrow { color: var(--color-cyan-400); }
+
+  .h-hero { font-size: var(--step-hero); line-height: 1.02; letter-spacing: -0.035em; font-weight: 800; }
+  .h-page { font-size: var(--step-page); line-height: 1.05; letter-spacing: -0.03em; font-weight: 800; }
+  .h-section { font-size: var(--step-section); line-height: 1.08; letter-spacing: -0.028em; }
+  .lead { font-size: var(--step-lead); line-height: 1.6; color: var(--color-text-muted); }
+  .on-dark .lead { color: #b8c6da; }
+
+  /* Rich text inside migrated content */
+  .prose-g p + p { margin-top: 1.05em; }
+  .prose-g p { color: var(--color-text-muted); font-size: 1.0625rem; }
+
+  /* Animated underline link */
+  .link-u {
+    background-image: linear-gradient(currentColor, currentColor);
+    background-size: 0% 1.5px;
+    background-repeat: no-repeat;
+    background-position: 0 100%;
+    transition: background-size 280ms var(--ease-out-soft);
+  }
+  .link-u:hover, .link-u:focus-visible { background-size: 100% 1.5px; }
+
+  /* Subtle engineered grid backdrop for dark bands */
+  .grid-backdrop {
+    background-image:
+      linear-gradient(rgb(255 255 255 / 0.045) 1px, transparent 1px),
+      linear-gradient(90deg, rgb(255 255 255 / 0.045) 1px, transparent 1px);
+    background-size: 64px 64px;
+    mask-image: radial-gradient(ellipse at 70% 30%, #000 20%, transparent 75%);
+  }
+  .grid-backdrop-light {
+    background-image:
+      linear-gradient(rgb(8 20 38 / 0.05) 1px, transparent 1px),
+      linear-gradient(90deg, rgb(8 20 38 / 0.05) 1px, transparent 1px);
+    background-size: 56px 56px;
+  }
+}
+
+/* Scroll reveal: content is visible by default; JS opts elements in. */
+@media (prefers-reduced-motion: no-preference) {
+  .js [data-reveal]:not(.is-visible) { opacity: 0; transform: translateY(18px); }
+  .js [data-reveal] {
+    transition: opacity 650ms var(--ease-out-soft), transform 650ms var(--ease-out-soft);
+    transition-delay: var(--reveal-delay, 0ms);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+@media print {
+  header[data-site-header], footer[data-site-footer], .no-print { display: none !important; }
+}

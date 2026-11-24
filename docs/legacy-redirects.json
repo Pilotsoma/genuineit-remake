@@ -1,0 +1,271 @@
+{
+  "generated": "scripts/generate-redirects.mjs",
+  "status": 301,
+  "note": "Legacy PDFs under /images/ are served from their original paths (no redirect needed) except the one mistyped LCA link.",
+  "redirects": [
+    {
+      "from": "/index.php",
+      "to": "/"
+    },
+    {
+      "from": "/index.html",
+      "to": "/"
+    },
+    {
+      "from": "/company-profile.php",
+      "to": "/company/about/"
+    },
+    {
+      "from": "/mission.php",
+      "to": "/company/mission-values/"
+    },
+    {
+      "from": "/it-services.php",
+      "to": "/company/clients-partners/"
+    },
+    {
+      "from": "/clients.php",
+      "to": "/company/clients-partners/"
+    },
+    {
+      "from": "/testimonials.php",
+      "to": "/company/testimonials/"
+    },
+    {
+      "from": "/employees.php",
+      "to": "/resources/employees/"
+    },
+    {
+      "from": "/careers.php",
+      "to": "/careers/"
+    },
+    {
+      "from": "/git-domestic-career.php",
+      "to": "/careers/"
+    },
+    {
+      "from": "/lca.php",
+      "to": "/compliance/lca/"
+    },
+    {
+      "from": "/engaging-with-us.php",
+      "to": "/contact/business-inquiries/"
+    },
+    {
+      "from": "/partnering-us.php",
+      "to": "/contact/partnerships/"
+    },
+    {
+      "from": "/contact.php",
+      "to": "/contact/"
+    },
+    {
+      "from": "/disclaimer.php",
+      "to": "/legal/disclaimer/"
+    },
+    {
+      "from": "/images/lca_docs/I-200-24157-07185.pdf",
+      "to": "/images/lca_docs/I-200-24157-071855.pdf"
+    },
+    {
+      "from": "/professional-services.php",
+      "to": "/services/professional-services/"
+    },
+    {
+      "from": "/training.php",
+      "to": "/services/training/"
+    },
+    {
+      "from": "/it-out-sourcing.php",
+      "to": "/services/it-outsourcing/"
+    },
+    {
+      "from": "/change-mgmnt.php",
+      "to": "/services/change-management/"
+    },
+    {
+      "from": "/enterprise-architecture.php",
+      "to": "/services/enterprise-architecture/"
+    },
+    {
+      "from": "/bpm-mgmnt-services.php",
+      "to": "/services/bpm-services/"
+    },
+    {
+      "from": "/program-mgmnt-support.php",
+      "to": "/services/program-management-support/"
+    },
+    {
+      "from": "/business-process-outsourcing.php",
+      "to": "/services/business-process-outsourcing/"
+    },
+    {
+      "from": "/application-development.php",
+      "to": "/services/application-development/"
+    },
+    {
+      "from": "/application-integration.php",
+      "to": "/services/application-integration/"
+    },
+    {
+      "from": "/web-app-development.php",
+      "to": "/services/web-application-development/"
+    },
+    {
+      "from": "/soa-services.php",
+      "to": "/services/soa-services/"
+    },
+    {
+      "from": "/product-development.php",
+      "to": "/services/product-development/"
+    },
+    {
+      "from": "/product-management.php",
+      "to": "/services/product-management/"
+    },
+    {
+      "from": "/prototyping.php",
+      "to": "/services/prototyping/"
+    },
+    {
+      "from": "/sustenance-eng.php",
+      "to": "/services/sustenance-engineering/"
+    },
+    {
+      "from": "/quality-assurance.php",
+      "to": "/services/quality-assurance/"
+    },
+    {
+      "from": "/cloud-services.php",
+      "to": "/services/cloud-services/"
+    },
+    {
+      "from": "/configuration-mgmnt.php",
+      "to": "/services/configuration-management/"
+    },
+    {
+      "from": "/data-mgmnt.php",
+      "to": "/services/data-management/"
+    },
+    {
+      "from": "/network-operation-center.php",
+      "to": "/services/network-operations-center/"
+    },
+    {
+      "from": "/production-support.php",
+      "to": "/services/production-support/"
+    },
+    {
+      "from": "/legacy-sw-migration.php",
+      "to": "/services/legacy-software-migration/"
+    },
+    {
+      "from": "/application-server-sw-migration.php",
+      "to": "/services/application-server-migration/"
+    },
+    {
+      "from": "/android-appln-development.php",
+      "to": "/services/android-development/"
+    },
+    {
+      "from": "/iphone-app-dev.php",
+      "to": "/services/iphone-development/"
+    },
+    {
+      "from": "/blackberry-app-dev.php",
+      "to": "/services/blackberry-development/"
+    },
+    {
+      "from": "/windows-app-dev.php",
+      "to": "/services/windows-mobile-development/"
+    },
+    {
+      "from": "/e-learning.php",
+      "to": "/services/e-learning/"
+    },
+    {
+      "from": "/oracle-app-expertise.php",
+      "to": "/solutions/oracle-applications/"
+    },
+    {
+      "from": "/sap.php",
+      "to": "/solutions/sap/"
+    },
+    {
+      "from": "/microsoft-dynamics.php",
+      "to": "/solutions/microsoft-dynamics/"
+    },
+    {
+      "from": "/salesforce-crm.php",
+      "to": "/solutions/salesforce-crm/"
+    },
+    {
+      "from": "/siebel.php",
+      "to": "/solutions/siebel-crm/"
+    },
+    {
+      "from": "/content-mgmt-solution.php",
+      "to": "/solutions/content-management/"
+    },
+    {
+      "from": "/share-point-consulting.php",
+      "to": "/solutions/sharepoint/"
+    },
+    {
+      "from": "/business-intelligence-data-warehousing.php",
+      "to": "/solutions/business-intelligence/"
+    },
+    {
+      "from": "/ecommerce.php",
+      "to": "/solutions/ecommerce/"
+    },
+    {
+      "from": "/utilities.php",
+      "to": "/industries/energy-utilities/"
+    },
+    {
+      "from": "/oil-gas.php",
+      "to": "/industries/oil-gas/"
+    },
+    {
+      "from": "/manufacturing.php",
+      "to": "/industries/manufacturing/"
+    },
+    {
+      "from": "/defence.php",
+      "to": "/industries/defense/"
+    },
+    {
+      "from": "/banking.php",
+      "to": "/industries/banking/"
+    },
+    {
+      "from": "/insurance.php",
+      "to": "/industries/insurance/"
+    },
+    {
+      "from": "/health-care.php",
+      "to": "/industries/health-care/"
+    },
+    {
+      "from": "/pharmaceauticals.php",
+      "to": "/industries/pharma-life-sciences/"
+    },
+    {
+      "from": "/government.php",
+      "to": "/industries/government/"
+    },
+    {
+      "from": "/transportation.php",
+      "to": "/industries/transportation/"
+    },
+    {
+      "from": "/communications.php",
+      "to": "/industries/communications/"
+    },
+    {
+      "from": "/retails.php",
+      "to": "/industries/retail/"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "genuineit-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "GenuineIT LLC corporate website (Next.js static export for Apache/PHP hosting)",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && node scripts/postbuild.mjs",
+    "start": "node scripts/serve-static.mjs 4173",
+    "typecheck": "tsc --noEmit",
+    "test": "playwright test",
+    "validate:content": "node scripts/validate-content.mjs",
+    "audit:deps": "npm audit --omit=dev",
+    "prebuild": "node scripts/generate-redirects.mjs",
+    "redirects": "node scripts/generate-redirects.mjs"
+  },
+  "engines": {
+    "node": ">=20.9"
+  },
+  "dependencies": {
+    "lucide-react": "1.69.0",
+    "next": "15.5.29",
+    "react": "19.2.9",
+    "react-dom": "19.2.9",
+    "zod": "4.6.7"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "^4.14.0",
+    "@playwright/test": "1.64.1",
+    "@tailwindcss/postcss": "4.3.4",
+    "@types/node": "24.19.2",
+    "@types/react": "19.2.18",
+    "@types/react-dom": "19.2.7",
+    "tailwindcss": "4.3.4",
+    "typescript": "5.9.3"
+  },
+  "overrides": {
+    "postcss": "8.5.23"
+  },
+  "type": "module"
+}

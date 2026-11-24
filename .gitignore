@@ -1,0 +1,16 @@
+node_modules/
+.next/
+out/
+next-env.d.ts
+*.tsbuildinfo
+.env
+.env.local
+.env.*.local
+test-results/
+playwright-report/
+# Raw crawl of the legacy site (reproducible via scripts/crawl_legacy.py)
+legacy-mirror/
+php-runtime/
+
+# Playwright
+.claude/settings.local.json

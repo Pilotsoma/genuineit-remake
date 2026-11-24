@@ -1,0 +1,1496 @@
+{
+  "legacyAssetCount": 180,
+  "legacyAssets": [
+    {
+      "url": "https://genuineitllc.com/captcha.php?rand=1520518508",
+      "type": "other",
+      "httpStatus": 200,
+      "bytes": 4897,
+      "disposition": "retired (replaced by new build)",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/captcha.php?rand=1634200516",
+      "type": "other",
+      "httpStatus": 200,
+      "bytes": 4723,
+      "disposition": "retired (replaced by new build)",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/captcha.php?rand=822328899",
+      "type": "other",
+      "httpStatus": 200,
+      "bytes": 4214,
+      "disposition": "retired (replaced by new build)",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/css/carousel.css",
+      "type": "code",
+      "httpStatus": 200,
+      "bytes": 2151,
+      "disposition": "retired (replaced by new build)",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/css/nav.css",
+      "type": "code",
+      "httpStatus": 200,
+      "bytes": 3139,
+      "disposition": "retired (replaced by new build)",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/css/slick.css",
+      "type": "code",
+      "httpStatus": 200,
+      "bytes": 3075,
+      "disposition": "retired (replaced by new build)",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/css/social.css",
+      "type": "code",
+      "httpStatus": 200,
+      "bytes": 1850,
+      "disposition": "retired (replaced by new build)",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/css/styles.css",
+      "type": "code",
+      "httpStatus": 200,
+      "bytes": 11540,
+      "disposition": "retired (replaced by new build)",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/GenuineIT-Flyer.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 1121994,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/career.PNG",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 12287,
+      "disposition": "not reused (legacy design asset)",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/clients/client-1.jpeg",
+      "type": "image",
+      "httpStatus": 404,
+      "bytes": 0,
+      "disposition": "missing at source (HTTP 404)",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/clients/client-10.jpg",
+      "type": "image",
+      "httpStatus": 404,
+      "bytes": 0,
+      "disposition": "missing at source (HTTP 404)",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/clients/client-11.png",
+      "type": "image",
+      "httpStatus": 404,
+      "bytes": 0,
+      "disposition": "missing at source (HTTP 404)",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/clients/client-12.png",
+      "type": "image",
+      "httpStatus": 404,
+      "bytes": 0,
+      "disposition": "missing at source (HTTP 404)",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/clients/client-13.png",
+      "type": "image",
+      "httpStatus": 404,
+      "bytes": 0,
+      "disposition": "missing at source (HTTP 404)",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/clients/client-14.png",
+      "type": "image",
+      "httpStatus": 404,
+      "bytes": 0,
+      "disposition": "missing at source (HTTP 404)",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/clients/client-15.png",
+      "type": "image",
+      "httpStatus": 404,
+      "bytes": 0,
+      "disposition": "missing at source (HTTP 404)",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/clients/client-16.png",
+      "type": "image",
+      "httpStatus": 404,
+      "bytes": 0,
+      "disposition": "missing at source (HTTP 404)",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/clients/client-17.png",
+      "type": "image",
+      "httpStatus": 404,
+      "bytes": 0,
+      "disposition": "missing at source (HTTP 404)",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/clients/client-18.png",
+      "type": "image",
+      "httpStatus": 404,
+      "bytes": 0,
+      "disposition": "missing at source (HTTP 404)",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/clients/client-19.png",
+      "type": "image",
+      "httpStatus": 404,
+      "bytes": 0,
+      "disposition": "missing at source (HTTP 404)",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/clients/client-2.png",
+      "type": "image",
+      "httpStatus": 404,
+      "bytes": 0,
+      "disposition": "missing at source (HTTP 404)",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/clients/client-20.png",
+      "type": "image",
+      "httpStatus": 404,
+      "bytes": 0,
+      "disposition": "missing at source (HTTP 404)",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/clients/client-21.png",
+      "type": "image",
+      "httpStatus": 404,
+      "bytes": 0,
+      "disposition": "missing at source (HTTP 404)",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/clients/client-22.png",
+      "type": "image",
+      "httpStatus": 404,
+      "bytes": 0,
+      "disposition": "missing at source (HTTP 404)",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/clients/client-23.png",
+      "type": "image",
+      "httpStatus": 404,
+      "bytes": 0,
+      "disposition": "missing at source (HTTP 404)",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/clients/client-24.png",
+      "type": "image",
+      "httpStatus": 404,
+      "bytes": 0,
+      "disposition": "missing at source (HTTP 404)",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/clients/client-25.png",
+      "type": "image",
+      "httpStatus": 404,
+      "bytes": 0,
+      "disposition": "missing at source (HTTP 404)",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/clients/client-3.png",
+      "type": "image",
+      "httpStatus": 404,
+      "bytes": 0,
+      "disposition": "missing at source (HTTP 404)",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/clients/client-4.png",
+      "type": "image",
+      "httpStatus": 404,
+      "bytes": 0,
+      "disposition": "missing at source (HTTP 404)",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/clients/client-5.png",
+      "type": "image",
+      "httpStatus": 404,
+      "bytes": 0,
+      "disposition": "missing at source (HTTP 404)",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/clients/client-6.png",
+      "type": "image",
+      "httpStatus": 404,
+      "bytes": 0,
+      "disposition": "missing at source (HTTP 404)",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/clients/client-7.png",
+      "type": "image",
+      "httpStatus": 404,
+      "bytes": 0,
+      "disposition": "missing at source (HTTP 404)",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/clients/client-8.png",
+      "type": "image",
+      "httpStatus": 404,
+      "bytes": 0,
+      "disposition": "missing at source (HTTP 404)",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/clients/client-9.png",
+      "type": "image",
+      "httpStatus": 404,
+      "bytes": 0,
+      "disposition": "missing at source (HTTP 404)",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/contact-bg.jpg",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 6751,
+      "disposition": "not reused (legacy design asset)",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/docs-2018/Direct-Deposit-Form-2018.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 594271,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/docs-2018/GIT-TimeSheet.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 50321,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/docs-2018/GIT-weekly-reports.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 40853,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/docs-2018/GIT_Expense_report.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 8973,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/docs-2018/GenuineIT_Leave.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 215988,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/docs-2018/I9-2018.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 74555,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/docs-2018/Mileage_logsheet.xlsx",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 14213,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/docs-2018/Performance-Report-Sample.docx",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 48207,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/docs-2018/W4-2018.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 126820,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/docs-2018/W9-2018.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 130612,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/docs/git-brocture.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 557277,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/favicon.ico",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 531,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/footer-images/foot-1.png",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 11055,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/footer-images/foot-2.png",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 14532,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/footer-images/foot-3.jpg",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 4468,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/git-clients/allegis.jpg",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 20406,
+      "disposition": "retained at original URL",
+      "license": "Third-party trademark — displayed as provided on legacy site"
+    },
+    {
+      "url": "https://genuineitllc.com/images/git-clients/champion.png",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 8362,
+      "disposition": "retained at original URL",
+      "license": "Third-party trademark — displayed as provided on legacy site"
+    },
+    {
+      "url": "https://genuineitllc.com/images/git-clients/chevron.jpg",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 22600,
+      "disposition": "retained at original URL",
+      "license": "Third-party trademark — displayed as provided on legacy site"
+    },
+    {
+      "url": "https://genuineitllc.com/images/git-clients/gitc1.png",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 34093,
+      "disposition": "retained at original URL",
+      "license": "Third-party trademark — displayed as provided on legacy site"
+    },
+    {
+      "url": "https://genuineitllc.com/images/git-clients/gitc10.png",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 3387,
+      "disposition": "retained at original URL",
+      "license": "Third-party trademark — displayed as provided on legacy site"
+    },
+    {
+      "url": "https://genuineitllc.com/images/git-clients/gitc11.png",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 7135,
+      "disposition": "retained at original URL",
+      "license": "Third-party trademark — displayed as provided on legacy site"
+    },
+    {
+      "url": "https://genuineitllc.com/images/git-clients/gitc12.png",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 67557,
+      "disposition": "retained at original URL",
+      "license": "Third-party trademark — displayed as provided on legacy site"
+    },
+    {
+      "url": "https://genuineitllc.com/images/git-clients/gitc13.png",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 5742,
+      "disposition": "retained at original URL",
+      "license": "Third-party trademark — displayed as provided on legacy site"
+    },
+    {
+      "url": "https://genuineitllc.com/images/git-clients/gitc14.png",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 19079,
+      "disposition": "retained at original URL",
+      "license": "Third-party trademark — displayed as provided on legacy site"
+    },
+    {
+      "url": "https://genuineitllc.com/images/git-clients/gitc15.png",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 4346,
+      "disposition": "retained at original URL",
+      "license": "Third-party trademark — displayed as provided on legacy site"
+    },
+    {
+      "url": "https://genuineitllc.com/images/git-clients/gitc16.png",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 4121,
+      "disposition": "retained at original URL",
+      "license": "Third-party trademark — displayed as provided on legacy site"
+    },
+    {
+      "url": "https://genuineitllc.com/images/git-clients/gitc17.png",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 5389,
+      "disposition": "retained at original URL",
+      "license": "Third-party trademark — displayed as provided on legacy site"
+    },
+    {
+      "url": "https://genuineitllc.com/images/git-clients/gitc18.png",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 8862,
+      "disposition": "retained at original URL",
+      "license": "Third-party trademark — displayed as provided on legacy site"
+    },
+    {
+      "url": "https://genuineitllc.com/images/git-clients/gitc19.png",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 7610,
+      "disposition": "retained at original URL",
+      "license": "Third-party trademark — displayed as provided on legacy site"
+    },
+    {
+      "url": "https://genuineitllc.com/images/git-clients/gitc2.png",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 3180,
+      "disposition": "retained at original URL",
+      "license": "Third-party trademark — displayed as provided on legacy site"
+    },
+    {
+      "url": "https://genuineitllc.com/images/git-clients/gitc20.png",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 9251,
+      "disposition": "retained at original URL",
+      "license": "Third-party trademark — displayed as provided on legacy site"
+    },
+    {
+      "url": "https://genuineitllc.com/images/git-clients/gitc21.png",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 4451,
+      "disposition": "retained at original URL",
+      "license": "Third-party trademark — displayed as provided on legacy site"
+    },
+    {
+      "url": "https://genuineitllc.com/images/git-clients/gitc22.png",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 21911,
+      "disposition": "retained at original URL",
+      "license": "Third-party trademark — displayed as provided on legacy site"
+    },
+    {
+      "url": "https://genuineitllc.com/images/git-clients/gitc23.png",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 69407,
+      "disposition": "retained at original URL",
+      "license": "Third-party trademark — displayed as provided on legacy site"
+    },
+    {
+      "url": "https://genuineitllc.com/images/git-clients/gitc24.png",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 4493,
+      "disposition": "retained at original URL",
+      "license": "Third-party trademark — displayed as provided on legacy site"
+    },
+    {
+      "url": "https://genuineitllc.com/images/git-clients/gitc25.png",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 10162,
+      "disposition": "retained at original URL",
+      "license": "Third-party trademark — displayed as provided on legacy site"
+    },
+    {
+      "url": "https://genuineitllc.com/images/git-clients/gitc26.png",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 5780,
+      "disposition": "retained at original URL",
+      "license": "Third-party trademark — displayed as provided on legacy site"
+    },
+    {
+      "url": "https://genuineitllc.com/images/git-clients/gitc27.png",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 4108,
+      "disposition": "retained at original URL",
+      "license": "Third-party trademark — displayed as provided on legacy site"
+    },
+    {
+      "url": "https://genuineitllc.com/images/git-clients/gitc28.png",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 27179,
+      "disposition": "retained at original URL",
+      "license": "Third-party trademark — displayed as provided on legacy site"
+    },
+    {
+      "url": "https://genuineitllc.com/images/git-clients/gitc29.png",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 3230,
+      "disposition": "retained at original URL",
+      "license": "Third-party trademark — displayed as provided on legacy site"
+    },
+    {
+      "url": "https://genuineitllc.com/images/git-clients/gitc3.png",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 7512,
+      "disposition": "retained at original URL",
+      "license": "Third-party trademark — displayed as provided on legacy site"
+    },
+    {
+      "url": "https://genuineitllc.com/images/git-clients/gitc30.png",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 9862,
+      "disposition": "retained at original URL",
+      "license": "Third-party trademark — displayed as provided on legacy site"
+    },
+    {
+      "url": "https://genuineitllc.com/images/git-clients/gitc31.png",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 7150,
+      "disposition": "retained at original URL",
+      "license": "Third-party trademark — displayed as provided on legacy site"
+    },
+    {
+      "url": "https://genuineitllc.com/images/git-clients/gitc32.png",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 5435,
+      "disposition": "retained at original URL",
+      "license": "Third-party trademark — displayed as provided on legacy site"
+    },
+    {
+      "url": "https://genuineitllc.com/images/git-clients/gitc33.png",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 19724,
+      "disposition": "retained at original URL",
+      "license": "Third-party trademark — displayed as provided on legacy site"
+    },
+    {
+      "url": "https://genuineitllc.com/images/git-clients/gitc34.png",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 5435,
+      "disposition": "retained at original URL",
+      "license": "Third-party trademark — displayed as provided on legacy site"
+    },
+    {
+      "url": "https://genuineitllc.com/images/git-clients/gitc35.png",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 25229,
+      "disposition": "retained at original URL",
+      "license": "Third-party trademark — displayed as provided on legacy site"
+    },
+    {
+      "url": "https://genuineitllc.com/images/git-clients/gitc36.png",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 12375,
+      "disposition": "retained at original URL",
+      "license": "Third-party trademark — displayed as provided on legacy site"
+    },
+    {
+      "url": "https://genuineitllc.com/images/git-clients/gitc37.png",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 76906,
+      "disposition": "retained at original URL",
+      "license": "Third-party trademark — displayed as provided on legacy site"
+    },
+    {
+      "url": "https://genuineitllc.com/images/git-clients/gitc38.png",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 87772,
+      "disposition": "retained at original URL",
+      "license": "Third-party trademark — displayed as provided on legacy site"
+    },
+    {
+      "url": "https://genuineitllc.com/images/git-clients/gitc39.png",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 6027,
+      "disposition": "retained at original URL",
+      "license": "Third-party trademark — displayed as provided on legacy site"
+    },
+    {
+      "url": "https://genuineitllc.com/images/git-clients/gitc4.png",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 37701,
+      "disposition": "retained at original URL",
+      "license": "Third-party trademark — displayed as provided on legacy site"
+    },
+    {
+      "url": "https://genuineitllc.com/images/git-clients/gitc5.png",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 6722,
+      "disposition": "retained at original URL",
+      "license": "Third-party trademark — displayed as provided on legacy site"
+    },
+    {
+      "url": "https://genuineitllc.com/images/git-clients/gitc6.png",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 10682,
+      "disposition": "retained at original URL",
+      "license": "Third-party trademark — displayed as provided on legacy site"
+    },
+    {
+      "url": "https://genuineitllc.com/images/git-clients/gitc7.png",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 7748,
+      "disposition": "retained at original URL",
+      "license": "Third-party trademark — displayed as provided on legacy site"
+    },
+    {
+      "url": "https://genuineitllc.com/images/git-clients/gitc8.png",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 8866,
+      "disposition": "retained at original URL",
+      "license": "Third-party trademark — displayed as provided on legacy site"
+    },
+    {
+      "url": "https://genuineitllc.com/images/git-clients/gitc9.png",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 35376,
+      "disposition": "retained at original URL",
+      "license": "Third-party trademark — displayed as provided on legacy site"
+    },
+    {
+      "url": "https://genuineitllc.com/images/git-clients/kell.jpg",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 21715,
+      "disposition": "retained at original URL",
+      "license": "Third-party trademark — displayed as provided on legacy site"
+    },
+    {
+      "url": "https://genuineitllc.com/images/git-clients/tek.jpg",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 17334,
+      "disposition": "retained at original URL",
+      "license": "Third-party trademark — displayed as provided on legacy site"
+    },
+    {
+      "url": "https://genuineitllc.com/images/git-inner.jpg",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 91151,
+      "disposition": "not reused (legacy design asset)",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-19021-533070.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 621703,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-19221-927990.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 562551,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-19344-188560.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 4313690,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-19352-204020.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 967048,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-20007-238040.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 936686,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-20020-263695.pdf",
+      "type": "document",
+      "httpStatus": 404,
+      "bytes": 0,
+      "disposition": "missing at source (HTTP 404)",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-20037-301960.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 936529,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-20063-372270.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 936713,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-20076-410739.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 1952260,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-20086-438665.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 2617226,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-20149-606342.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 545288,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-20164-648444.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 4522829,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-20206-734065.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 421503,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-20246-800461.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 592402,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-20270-846899.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 597067,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-21041-067266.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 612852,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-21055-097284.pdf",
+      "type": "document",
+      "httpStatus": 404,
+      "bytes": 0,
+      "disposition": "missing at source (HTTP 404)",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-21061-111264.pdf",
+      "type": "document",
+      "httpStatus": 404,
+      "bytes": 0,
+      "disposition": "missing at source (HTTP 404)",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-21126-291064.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 566632,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-21126-291112.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 609314,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-21153-363869.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 618569,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-21153-363905_new.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 396036,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-21193-457566.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 737567,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-21244-560252.pdf",
+      "type": "document",
+      "httpStatus": 404,
+      "bytes": 0,
+      "disposition": "missing at source (HTTP 404)",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-21327-722020.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 460615,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-22025-850450.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 711747,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-22061-942347.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 2790170,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-22061-942378.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 635759,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-22077-991825.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 716558,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-22109-085566.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 640146,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-22136-175147.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 731980,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-22140-194871.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 938398,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-22146-217477.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 724525,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-22200-362499.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 723954,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-22200-362543.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 729677,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-22201-365889.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 704738,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-22201-365997.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 708017,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-22213-388303.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 851047,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-22256-468091.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 846559,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-23007-687846.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 521727,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-23008-688320.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 521406,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-23018-708888.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 732123,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-23021-718416.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 403052,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-23024-721786.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 401096,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-23065-823686.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 832938,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-23105-936446.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 403032,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-23137-028194.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 866392,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-23166-116699.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 774944,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-23171-125929.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 865998,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-23264-368001.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 774045,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-23322-511805.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 790651,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-24026-668946.pdf",
+      "type": "document",
+      "httpStatus": 404,
+      "bytes": 0,
+      "disposition": "missing at source (HTTP 404)",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-24052-734452.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 2371644,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-24063-765992.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 2384249,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-24063-766006.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 2387263,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-24079-810142.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 864761,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-24116-923691.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 865739,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-24133-985786.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 865057,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-24157-07185.pdf",
+      "type": "document",
+      "httpStatus": 404,
+      "bytes": 0,
+      "disposition": "missing at source (HTTP 404)",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-24157-071862.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 774344,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-24215-239841.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 864664,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-24268-358931.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 865862,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-24284-397437.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 864378,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-24353-552892.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 791792,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-25007-598869.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 794976,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-25015-618891.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 791214,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-25067-759798.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 792801,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-25073-775037-certified-lca.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 793011,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-25073-775037.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 793011,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-25094-834521.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 470621,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-25199-184003.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 792949,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-25200-187078.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 793804,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-25224-235387.pdf",
+      "type": "document",
+      "httpStatus": 200,
+      "bytes": 2127625,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/lca_docs/I-200-25262-322447 Ranga LCA certified.pdf",
+      "type": "document",
+      "httpStatus": -1,
+      "bytes": 0,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/logo.png",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 12097,
+      "disposition": "retained at original URL",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/partners.PNG",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 7740,
+      "disposition": "not reused (legacy design asset)",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/reg-bg.jpg",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 30352,
+      "disposition": "not reused (legacy design asset)",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/slider/banner-1.png",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 658238,
+      "disposition": "not reused (legacy design asset)",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/slider/banner-2.png",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 639162,
+      "disposition": "not reused (legacy design asset)",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/slider/banner-3.png",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 649177,
+      "disposition": "not reused (legacy design asset)",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/slider/banner-4.png",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 360287,
+      "disposition": "not reused (legacy design asset)",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/images/solutions.png",
+      "type": "image",
+      "httpStatus": 200,
+      "bytes": 8546,
+      "disposition": "not reused (legacy design asset)",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/js/custom-script.js",
+      "type": "code",
+      "httpStatus": 200,
+      "bytes": 0,
+      "disposition": "retired (replaced by new build)",
+      "license": "GenuineIT-owned (legacy site)"
+    },
+    {
+      "url": "https://genuineitllc.com/js/jquery.validate.min.js",
+      "type": "code",
+      "httpStatus": 200,
+      "bytes": 21584,
+      "disposition": "retired (replaced by new build)",
+      "license": "GenuineIT-owned (legacy site)"
+    }
+  ],
+  "newAssets": [
+    {
+      "path": "/images/brand/genuineit-logo.png",
+      "source": "Supplied by the site owner in the redesign request (2026-11-24); transparent PNG, trimmed only",
+      "license": "GenuineIT-owned"
+    },
+    {
+      "path": "/og/genuineit-og.png",
+      "source": "Generated for this project (scripts: scratch og.py) from the official logo",
+      "license": "GenuineIT-owned"
+    },
+    {
+      "path": "src/fonts/inter-latin-var.woff2",
+      "source": "@fontsource-variable/inter 5.3.0",
+      "license": "SIL Open Font License 1.1"
+    },
+    {
+      "path": "src/fonts/manrope-latin-var.woff2",
+      "source": "@fontsource-variable/manrope 5.3.0",
+      "license": "SIL Open Font License 1.1"
+    },
+    {
+      "path": "SVG artwork (NetworkGlobe, PatternArt)",
+      "source": "Original, generated in code for this project",
+      "license": "GenuineIT-owned"
+    },
+    {
+      "path": "Icons",
+      "source": "lucide-react 1.69.0",
+      "license": "ISC"
+    }
+  ],
+  "externalLinksFound": [
+    "http://myaccess.adp.com/",
+    "http://www.wbenc.org/",
+    "https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js",
+    "https://cdn.datatables.net/1.10.16/css/dataTables.bootstrap.min.css",
+    "https://cdn.datatables.net/1.10.16/js/dataTables.bootstrap.min.js",
+    "https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js",
+    "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css",
+    "https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js",
+    "https://docs.google.com/forms/d/e/1FAIpQLSdoDh-KSnX0wLub2QE4FWKUeUnNul5iG0tvtdjPOL-n1aimbw/viewform?embedded=true",
+    "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css",
+    "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js",
+    "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
+    "https://twitter.com/gitconsultin",
+    "https://www.facebook.com/pages/Genuine-It/1462392847356700?ref=hl",
+    "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3466.4712704253775!2d-95.55511678550779!3d29.67711354278751!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8640c2a85d09b47b%3A0x355792c8bd3ed02e!2s9894+Bissonnet+St+%23827%2C+Houston%2C+TX+77036%2C+USA!5e0!3m2!1sen!2sin!4v1520421037565",
+    "https://www.linkedin.com/company/genuine-itllc",
+    "https://www.uscis.gov/e-verify"
+  ]
+}
